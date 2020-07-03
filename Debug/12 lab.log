@@ -1,0 +1,6 @@
+﻿  shell.c
+  sqlite3.c
+  Создание кода...
+  12 lab.cpp
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "mainCRTStartup"
+  12 lab.vcxproj -> C:\Users\1255846\source\repos\12 lab\Debug\12 lab.exe
